@@ -195,10 +195,10 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Hiro-Lin">
-                    <img src="https://avatars.githubusercontent.com/u/40111864?v=4" width="100;" alt="Hiro-Lin"/>
+                <a href="https://github.com/Ermeng98">
+                    <img src="https://avatars.githubusercontent.com/u/55784769?v=4" width="100;" alt="Ermeng98"/>
                     <br />
-                    <sub><b>HIRO</b></sub>
+                    <sub><b>Ermeng</b></sub>
                 </a>
             </td>
 		</tr>
@@ -211,10 +211,10 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Ermeng98">
-                    <img src="https://avatars.githubusercontent.com/u/55784769?v=4" width="100;" alt="Ermeng98"/>
+                <a href="https://github.com/Hiro-Lin">
+                    <img src="https://avatars.githubusercontent.com/u/40111864?v=4" width="100;" alt="Hiro-Lin"/>
                     <br />
-                    <sub><b>Ermeng</b></sub>
+                    <sub><b>HIRO</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -239,14 +239,21 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Tianci-King">
+                    <img src="https://avatars.githubusercontent.com/u/109196852?v=4" width="100;" alt="Tianci-King"/>
+                    <br />
+                    <sub><b>Wang Tianci</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
                 <a href="https://github.com/ZuWard">
                     <img src="https://avatars.githubusercontent.com/u/38209256?v=4" width="100;" alt="ZuWard"/>
                     <br />
                     <sub><b>ZuWard</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Zzendrix">
                     <img src="https://avatars.githubusercontent.com/u/154900254?v=4" width="100;" alt="Zzendrix"/>
@@ -282,6 +289,8 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                     <sub><b>Martin</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/zhihuiio">
                     <img src="https://avatars.githubusercontent.com/u/165655688?v=4" width="100;" alt="zhihuiio"/>
@@ -289,20 +298,11 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                     <sub><b>zhihuiio</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/renaissancezyc">
                     <img src="https://avatars.githubusercontent.com/u/118403818?v=4" width="100;" alt="renaissancezyc"/>
                     <br />
                     <sub><b>Ren</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Tianci-King">
-                    <img src="https://avatars.githubusercontent.com/u/109196852?v=4" width="100;" alt="Tianci-King"/>
-                    <br />
-                    <sub><b>Wang Tianci</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -347,6 +347,13 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                     <img src="https://avatars.githubusercontent.com/u/5417786?v=4" width="100;" alt="aa65535"/>
                     <br />
                     <sub><b>Jian Chang</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/FuSiYu666">
+                    <img src="https://avatars.githubusercontent.com/u/122072876?v=4" width="100;" alt="FuSiYu666"/>
+                    <br />
+                    <sub><b>FuSiYu666</b></sub>
                 </a>
             </td>
             <td align="center">
